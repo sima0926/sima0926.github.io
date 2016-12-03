@@ -557,8 +557,8 @@ a.keyword {
 ---- END 1カラム */
 /* header */
 #blog-title {
-  height: 600px;
-  line-height: 300px;
+  height: 250px;
+  line-height: 250px;
   font-size: 10px;
   padding: 20px 0;
   background-image: url("http://cdn-ak.f.st-hatena.com/images/fotolife/m/mofmof-rabbit-mofmof/20161126/20161126152308.png?1480141455");
@@ -667,6 +667,10 @@ a.keyword {
 }
 /* entry-content の中の書式 */
 .entry-content {
+  width: 320px;
+  display: flex;
+  flex
+  justify-content: space-between;
   font-size: 95%;
   line-height: 1.7;
   padding-bottom: 10px;
