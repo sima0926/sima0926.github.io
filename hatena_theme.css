@@ -601,7 +601,6 @@ a.keyword {
   margin-bottom: 100px;
 }
 .entry-header {
-  width: 320px;
   padding: 0 5px 10px 5px;
   margin-bottom: 20px;
   border-bottom: 1px solid #dddddd;
@@ -670,8 +669,6 @@ a.keyword {
 }
 /* entry-content の中の書式 */
 .entry-content {
-  width: 320px;
-  float: left;
   font-size: 95%;
   line-height: 1.7;
   padding-bottom: 10px;
