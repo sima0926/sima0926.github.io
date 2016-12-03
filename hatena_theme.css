@@ -570,6 +570,7 @@ a.keyword {
   margin: 0;
 }
 #title a {
+  font-size: 2em;
   color: #555;
 }
 #blog-description {
