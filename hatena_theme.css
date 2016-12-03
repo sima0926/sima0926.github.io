@@ -601,10 +601,12 @@ a.keyword {
   margin-bottom: 100px;
 }
 .entry-header {
-  padding: 0 0 10px 0;
+  width: 320px;
+  padding: 0 5px 10px 5px;
   margin-bottom: 20px;
   border-bottom: 1px solid #dddddd;
   position: relative;
+  box-sizing: border-box;
 }
 .entry-title {
   margin: 0;
